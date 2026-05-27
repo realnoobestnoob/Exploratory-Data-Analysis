@@ -1,10 +1,48 @@
-# Singapore Graduate Employment Trends
+# Singapore Graduate Employment Analysis
 
-- **Description**: this project presents an exploratory data analysis (EDA) of the MOE Graduate Employment Survey (GES) dataset, focusing on employment rates and median monthly salaries. The dataset comrpises of important details such as university, degree, full time employment rate, median gross monthly salary, and so on. Through this project, I delve into the dataset to extract meaningful insights and uncover notable findings, providing a comprehensive understanding of the graduate job market in Singapore
+## Overview
 
-- **Key findings**:
-1. Overall employment and salary trends
-2. Best and worst degrees in terms of employability and pay
-3. Trends within each job industry
+This project explores employment outcomes of graduates from Singapore universities using publicly available datasets. The analysis investigates employment rates, salaries, field-of-study differences, and long-term labour market trends.
 
-- **Tools used**: pandas, matplotlib
+The project aims to uncover insights into:
+- Graduate employability trends
+- Salary growth across disciplines
+
+---
+
+# Objectives
+
+Key questions explored:
+- Which degree programmes command the highest salaries?
+- How do employment outcomes differ across disciplines?
+- Are graduate salaries keeping pace over time?
+- Which industries demonstrate stronger demand for graduates?
+
+---
+
+# Dataset
+
+Source:
+- data.gov.sg
+
+Dataset contains:
+- Year
+- University
+- School
+- Degree
+- Overall Employment Rate
+- Full-Time Permanent Employment Rate
+- Basic Monthly Salary - Mean
+- Basic Monthly Salary - Median
+- Gross Monthly Salary - Mean
+- Gross Monthly Salary - Median
+- Gross Monthly Salary - 25th Percentile
+- Gross Monthly Salary - 75th Percentile 
+
+---
+
+# Key Insights
+
+- Tech Degrees Show Deteriorating Demand
+- Healthcare Degrees Demonstrate Stable Employment
+- Salary Growth Varies Significantly Across Disciplines
