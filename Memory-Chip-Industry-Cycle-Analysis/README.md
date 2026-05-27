@@ -1,6 +1,19 @@
-# Memory-Chip-Industry-Cycle-Analysis
-The memory semiconductor industry is known to be highly cyclical. With memory stocks booming to new highs recently, are we nearing the peak of the cycle? 
+# Memory Chip Industry Analysis
 
-This is just a short and fun project. Micron is used as a proxy
+## Overview
 
-Data is sourced from AI** Most historical financial data stretching back more than 5 years need paid subscriptions for access.
+This project explores trends within the global memory semiconductor industry using industry and market datasets.
+
+The analysis focuses on:
+- Industry cyclicality
+
+---
+
+# Key Insights
+
+## Memory Markets are Highly Cyclical
+
+Industry revenues and prices fluctuate significantly across cycles. Duration between peak and trough is typically 4 years.
+
+### Implication
+Investors must account for cyclicality when evaluating valuations and earnings sustainability.
