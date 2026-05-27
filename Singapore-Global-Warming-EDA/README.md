@@ -4,7 +4,13 @@ A comprehensive exploratory data analysis exploring climate patterns and environ
 
 ## Overview
 
-This Jupyter notebook performs a breif analysis of climate and environmental data specific to Singapore. It examines temperature patterns, humidity, rainfall trends, emission profiles, and correlations between climate variables over time to study the impact of global warming.
+This project explores climate and temperature trends in Singapore using historical environmental datasets.
+
+The analysis investigates:
+- Long-term warming trends
+- Temperature variability
+- Climate pattern changes
+- Environmental implications
 
 ## Data source
 
@@ -23,12 +29,13 @@ This Jupyter notebook performs a breif analysis of climate and environmental dat
 - SSP2-4.5: projection under high inequality
 - SSP3-7.0: projection under regional rivalry
 - SSP5-8.5: projection under heavy fossil fuel development
-  
 
-## Requirements
 
-- **Python 3.x**
-- **pandas**: Data manipulation and analysis
-- **matplotlib**: Static visualizations
-- **seaborn**: Statistical data visualization
-- **numpy**: Numerical computations
+## Key Insights
+
+- Singapore Shows a Long-Term Warming Trend
+- Sea Levels Are Rising
+
+## Conclusion
+
+This project demonstrates how environmental datasets can be used to identify climate trends and support evidence-based discussions around sustainability and urban resilience.
