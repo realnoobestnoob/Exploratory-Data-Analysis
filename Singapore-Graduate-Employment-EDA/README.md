@@ -8,8 +8,6 @@ The project aims to uncover insights into:
 - Graduate employability trends
 - Salary growth across disciplines
 
----
-
 # Objectives
 
 Key questions explored:
@@ -18,7 +16,6 @@ Key questions explored:
 - Are graduate salaries keeping pace over time?
 - Which industries demonstrate stronger demand for graduates?
 
----
 
 # Dataset
 
