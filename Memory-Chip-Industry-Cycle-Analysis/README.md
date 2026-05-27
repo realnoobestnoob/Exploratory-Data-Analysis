@@ -7,11 +7,9 @@ This project explores trends within the global memory semiconductor industry usi
 The analysis focuses on:
 - Industry cyclicality
 
----
-
 # Key Insights
 
-## Memory Markets are Highly Cyclical
+### Memory Markets are Highly Cyclical
 
 Industry revenues and prices fluctuate significantly across cycles. Duration between peak and trough is typically 4 years.
 
