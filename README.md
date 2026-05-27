@@ -16,7 +16,7 @@ This repository demonstrates:
 
 | Project | Domain | Key Skills |
 |---|---|---|
-| Singapore Graduate Employment Analysis | Education / Labour | Data cleaning, visualization, trend analysis |
+| Singapore Graduate Employment Analysis | Education / Economy | Data cleaning, visualization, trend analysis |
 | Public Hospital Admissions Analysis | Healthcare | Time-series analysis, healthcare insights |
 | Singapore Global Warming Analysis | Climate | Environmental data visualization |
 | Memory Chip Industry Analysis | Finance / Semiconductors | Industry trend analysis |
