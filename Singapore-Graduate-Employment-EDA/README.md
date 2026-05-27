@@ -36,8 +36,6 @@ Dataset contains:
 - Gross Monthly Salary - 25th Percentile
 - Gross Monthly Salary - 75th Percentile 
 
----
-
 # Key Insights
 
 - Tech Degrees Show Deteriorating Demand
