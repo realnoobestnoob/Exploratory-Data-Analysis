@@ -8,7 +8,7 @@ The project aims to uncover insights into:
 - Graduate employability trends
 - Salary growth across disciplines
 
-# Objectives
+## Objectives
 
 Key questions explored:
 - Which degree programmes command the highest salaries?
@@ -17,7 +17,7 @@ Key questions explored:
 - Which industries demonstrate stronger demand for graduates?
 
 
-# Dataset
+## Dataset
 
 Source:
 - data.gov.sg
@@ -36,7 +36,7 @@ Dataset contains:
 - Gross Monthly Salary - 25th Percentile
 - Gross Monthly Salary - 75th Percentile 
 
-# Key Insights
+## Key Insights
 
 - Tech Degrees Show Deteriorating Demand
 - Healthcare Degrees Demonstrate Stable Employment
