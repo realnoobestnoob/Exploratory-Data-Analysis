@@ -35,6 +35,7 @@ The analysis investigates:
 
 - Singapore Shows a Long-Term Warming Trend
 - Sea Levels Are Rising
+- Greenhouse Gas Emissions are Rising
 
 ## Conclusion
 
